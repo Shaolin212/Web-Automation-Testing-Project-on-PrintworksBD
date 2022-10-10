@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="8" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-10T17:27:17 BDT" name="Suite" finished-at="2022-10-10T17:30:10 BDT" duration-ms="173071">
+    <groups>
+    </groups>
+    <test started-at="2022-10-10T17:27:17 BDT" name="Test" finished-at="2022-10-10T17:30:10 BDT" duration-ms="173071">
+      <class name="tests.AddBookToCart">
+        <test-method is-config="true" signature="start()[pri:0, instance:tests.AddBookToCart@2a265ea9]" started-at="2022-10-10T17:27:16 BDT" name="start" finished-at="2022-10-10T17:27:17 BDT" duration-ms="1851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:tests.AddBookToCart@2a265ea9]" started-at="2022-10-10T17:27:17 BDT" name="openUrl" finished-at="2022-10-10T17:27:25 BDT" duration-ms="7702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="hoverAndClickKolpobiggyan()[pri:0, instance:tests.AddBookToCart@2a265ea9]" started-at="2022-10-10T17:27:25 BDT" name="hoverAndClickKolpobiggyan" finished-at="2022-10-10T17:27:50 BDT" duration-ms="25113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hoverAndClickKolpobiggyan -->
+        <test-method signature="scrollAndGoNext()[pri:1, instance:tests.AddBookToCart@2a265ea9]" started-at="2022-10-10T17:27:50 BDT" name="scrollAndGoNext" finished-at="2022-10-10T17:27:59 BDT" duration-ms="8646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollAndGoNext -->
+        <test-method signature="viewAnyBook()[pri:2, instance:tests.AddBookToCart@2a265ea9]" started-at="2022-10-10T17:27:59 BDT" name="viewAnyBook" finished-at="2022-10-10T17:28:19 BDT" duration-ms="20439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewAnyBook -->
+        <test-method signature="addToCart()[pri:3, instance:tests.AddBookToCart@2a265ea9]" started-at="2022-10-10T17:28:19 BDT" name="addToCart" finished-at="2022-10-10T17:28:33 BDT" duration-ms="14012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.AddBookToCart@2a265ea9]" started-at="2022-10-10T17:28:33 BDT" name="afterClass" finished-at="2022-10-10T17:28:34 BDT" duration-ms="853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="close()[pri:0, instance:tests.AddBookToCart@2a265ea9]" started-at="2022-10-10T17:30:11 BDT" name="close" finished-at="2022-10-10T17:30:11 BDT" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- tests.AddBookToCart -->
+      <class name="tests.CheckOut">
+        <test-method is-config="true" signature="startUrl()[pri:0, instance:tests.CheckOut@5b1669c0]" started-at="2022-10-10T17:28:34 BDT" name="startUrl" finished-at="2022-10-10T17:28:34 BDT" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUrl -->
+        <test-method signature="hoverCartAndClickCheckout()[pri:0, instance:tests.CheckOut@5b1669c0]" started-at="2022-10-10T17:28:34 BDT" name="hoverCartAndClickCheckout" finished-at="2022-10-10T17:28:51 BDT" duration-ms="16778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hoverCartAndClickCheckout -->
+        <test-method signature="provideInformation()[pri:1, instance:tests.CheckOut@5b1669c0]" started-at="2022-10-10T17:28:51 BDT" name="provideInformation" finished-at="2022-10-10T17:30:10 BDT" duration-ms="79120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- provideInformation -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.CheckOut@5b1669c0]" started-at="2022-10-10T17:30:10 BDT" name="afterClass" finished-at="2022-10-10T17:30:10 BDT" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.CheckOut -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
